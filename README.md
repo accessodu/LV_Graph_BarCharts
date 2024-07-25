@@ -2,7 +2,9 @@
 
 ## About the project
 
-This project has been developed to study the graphical perception of Visually impaired individuals.
+Bar charts are widely used for their simplicity in data representation, prompting numerous studies to explore and model how users interact with and perceive bar chart information. However, these studies have predominantly focused on sighted users, with a few also targeting blind screen-reader users, whereas the graphical perception of low-vision screen magnifier users is still an uncharted research territory. We fill this knowledge gap in this paper by designing four experiments for a laboratory study with 25 low-vision participants to examine their graphical perception when interacting with bar charts. For our investigation, we built a custom screen magnifier-based logger that captured micro-interaction details such as zooming and panning. 
+
+Our findings indicate that low-vision users invest significant time counteracting blurring and contrast effects when analyzing charts. We also observed that low-vision users struggle more in interpreting bars within a single-column stack compared to other stacked bar configurations, and moreover, for a few participants, the perception accuracy is lower when comparing separated bars than when comparing adjacent bars.
 
 ## Built With
 
